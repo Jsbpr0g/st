@@ -2,7 +2,6 @@ This is my configuration of the suckless utility "st-256color"
 
 I have added the following patches to this utility.
 
-1)Cyberpunk neon: because who doesnt love a fancy terminal. Looks good with transparency enabled in picom
-
+None. Instead I have integrate pywal to this file for color. When using st with pywal, remember to delete the /home/user/.cache/wal/colors-wal-st.h before recompiling.
 
 This is not a finished build 
